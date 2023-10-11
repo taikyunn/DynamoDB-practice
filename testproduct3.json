@@ -1,0 +1,316 @@
+{
+  "testproduct3": [
+    {
+      "PutRequest": {
+        "Item": {
+          "productid": {
+            "S": "10100-5AB22"
+          },
+          "created": {
+            "S": "2023-05-08T08:12Z"
+          },
+          "sku": {
+            "S": "12369"
+          },
+          "category": {
+            "S": "Small"
+          },
+          "size": {
+            "S": "Small"
+          },
+          "color": {
+            "S": "Red"
+          },
+          "qty": {
+            "N": "1"
+          },
+          "price": {
+            "N": "30"
+          },
+          "weight": {
+            "S": "Light"
+          }
+
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "productid": {
+            "S": "10100-6AB22"
+          },
+          "created": {
+            "S": "2023-05-12T14:30Z"
+          },
+          "sku": {
+            "S": "65423"
+          },
+          "category": {
+            "S": "Middle"
+          },
+          "qty": {
+            "N": "1"
+          },
+          "price": {
+            "N": "140.99"
+          },
+          "color": {
+            "S": "Black"
+          }
+
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "productid": {
+            "S": "10100-3CA01"
+          },
+          "created": {
+            "S": "2023-05-20T16:30Z"
+          },
+          "sku": {
+            "S": "65489"
+          },
+          "category": {
+            "S": "Large"
+          },
+          "qty": {
+            "N": "2"
+          },
+          "price": {
+            "N": "80.99"
+          },
+          "size": {
+            "N": "12"
+          }
+
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "productid": {
+            "S": "10105-5AB23"
+          },
+          "created": {
+            "S": "2023-05-12T7:42Z"
+          },
+          "sku": {
+            "S": "35489"
+          },
+          "category": {
+            "S": "Middle"
+          },
+          "size": {
+            "N": "14"
+          },
+          "qty": {
+            "N": "6"
+          },
+          "price": {
+            "N": "82.99"
+          },
+          "weight": {
+            "N": "4011"
+          }
+
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "productid": {
+            "S": "10100-4AB00"
+          },
+          "created": {
+            "S": "2023-05-25T18:30Z"
+          },
+          "sku": {
+            "S": "25869"
+          },
+          "category": {
+            "S": "Middle"
+          },
+          "qty": {
+            "N": "12"
+          },
+          "price": {
+            "N": "120.99"
+          },
+          "size": {
+            "N": "300"
+          }
+
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "productid": {
+            "S": "10110-4MA0B"
+          },
+          "created": {
+            "S": "2023-06-01T23:02Z"
+          },
+          "sku": {
+            "S": "78945"
+          },
+          "category": {
+            "S": "Large Class"
+          },
+          "qty": {
+            "N": "1"
+          },
+          "price": {
+            "N": "190.99"
+          },
+          "size": {
+            "S": "200"
+          }
+
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "productid": {
+            "S": "10101-5AB0C"
+          },
+          "created": {
+            "S": "2023-06-02T07:09Z"
+          },
+          "sku": {
+            "S": "55656"
+          },
+          "category": {
+            "S": "Middle Class"
+          },
+          "qty": {
+            "N": "10"
+          },
+          "price": {
+            "N": "25.95"
+          },
+          "weight": {
+            "N": "200.35"
+          }
+
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "productid": {
+            "S": "10100-5SC0A"
+          },
+          "created": {
+            "S": "2023-05-08T10:20Z"
+          },
+          "sku": {
+            "S": "96785"
+          },
+          "qty": {
+            "N": "1"
+          },
+          "price": {
+            "N": "120.99"
+          },
+          "category": {
+            "S": "Engine Middle"
+          }
+
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "productid": {
+            "S": "10100-aa004"
+          },
+          "created": {
+            "S": "2023-05-18T14:34Z"
+          },
+          "sku": {
+            "S": "36549"
+          },
+          "category": {
+            "S": "Gass Eng"
+          },
+          "size": {
+            "N": "180"
+          },
+          "price": {
+            "N": "120.35"
+          },
+          "qty": {
+            "N": "6"
+          }
+
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "productid": {
+            "S": "10100-eeeee"
+          },
+          "created": {
+            "S": "2023-05-21T05:55Z"
+          },
+          "sku": {
+            "S": "65489"
+          },
+          "category": {
+            "S": "Engine"
+          },
+          "model": {
+            "S": "model-x"
+          },
+          "qty": {
+            "N": "10"
+          },
+          "price": {
+            "N": "100.00"
+          }
+        }
+      }
+    },
+    {
+        "PutRequest": {
+          "Item": {
+            "productid": {
+              "S": "10100-aaabv"
+            },
+            "created": {
+              "S": "2023-06-03T06:04Z"
+            },
+            "sku": {
+              "S": "12345"
+            },
+            "category": {
+              "S": "Engine(Test)"
+            },
+            "qty": {
+              "N": "1"
+            },
+            "price": {
+              "N": "19.95"
+            },
+            "weight": {
+              "S": "60.00"
+            }
+          }
+        }
+      }
+  ]
+}
